@@ -1,0 +1,7 @@
+#!/bin/bash
+#Date:Feb 2023
+#Description:Sonarque installation on centos7
+
+sudo yum update -yum
+sudo yum install java-11-openjdk-devel -y
+sudo yum install java-11-openjdk -y
